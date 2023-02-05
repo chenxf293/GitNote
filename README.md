@@ -1,1 +1,1 @@
-# GitNote
+# A Note For Git
